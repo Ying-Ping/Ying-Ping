@@ -1,4 +1,4 @@
-Hi there, I'm Ying-Ping! 👋
+Hi there, I'm Jing-Ping! 👋
 Welcome to my GitHub profile! I'm passionate about blockchain technology, smart contract development, and decentralized applications. Here you'll find a collection of my projects, contributions, and experiments in the world of blockchain.
 
 About Me
